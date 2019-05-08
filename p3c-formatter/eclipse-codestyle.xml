@@ -362,7 +362,7 @@
                 <!--org.eclipse.jdt.core.formatter.indentation.size=Java:IndentOptions:INDENT_SIZE-->
                 <setting id="org.eclipse.jdt.core.formatter.indentation.size" value="4"/>
                 <!--org.eclipse.jdt.core.formatter.continuation_indentation=Java:IndentOptions:<Programmatic>-->
-                <setting id="org.eclipse.jdt.core.formatter.continuation_indentation" value="1"/>
+                <setting id="org.eclipse.jdt.core.formatter.continuation_indentation" value="2"/>
                 <!--org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_type_header=Java:<Programmatic>-->
                 <setting id="org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_type_header" value="true"/>
                 <!--org.eclipse.jdt.core.formatter.use_tabs_only_for_leading_indentations=Java:IndentOptions:SMART_TABS-->
